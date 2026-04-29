@@ -39,7 +39,7 @@ A modern React Native mobile application for exploring Pokémon. Built with Expo
 
    ```bash
    git clone <repository-url>
-   cd pokedex-app-rn
+   cd pokedex-app
    ```
 
 2. **Install dependencies**
